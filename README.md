@@ -3,7 +3,7 @@
 # Abu Bakar
 ### Learning. Building. Shipping.
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal Profile"/>
+<img src="./terminal.svg" width="100%" alt="Terminal Profile"/>
 
 [![Email](https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourhandle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
