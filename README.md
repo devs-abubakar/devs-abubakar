@@ -1,4 +1,4 @@
-<div align="center"><img src="./ascii.svg" width="180" alt="Ascii image"/>
+<div align="center"><img src="./ascii.txt" width="180" alt="Ascii image"/>
 
 # Abu Bakar
 ### Learning. Building. Shipping.
